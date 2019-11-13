@@ -1,0 +1,1 @@
+Aquí se guardan los posibles ficheros de texto que sean necesarios para vuestros widgets.
